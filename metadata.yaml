@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6197
     wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21966#Propos-de-ville-et-propos-de-th--tre
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-06-29'
 gutenberg_type: Text
