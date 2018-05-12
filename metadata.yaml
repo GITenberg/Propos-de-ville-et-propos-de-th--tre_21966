@@ -1,0 +1,31 @@
+_repo: Propos-de-ville-et-propos-de-th--tre_21966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murger, Henri
+    alias: Murger, Henry
+    birthdate: 1822
+    deathdate: 1861
+    gutenberg_agent_id: '6197'
+    url: http://www.gutenberg.org/2009/agents/6197
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21966'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century'
+tableOfContents: Propos de ville et de théatre -- Silhouettes littéraires -- Notes
+  de voyage -- Causeries dramatiques.
+title: Propos de ville et propos de théâtre
+url: http://www.gutenberg.org/ebooks/21966
